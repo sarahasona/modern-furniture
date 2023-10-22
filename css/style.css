@@ -403,11 +403,13 @@ main .main-content button:hover{
 
     }
     70%{
-        background-image: url('../images/_Bedside_Cabinets_and_Sarah_Lampshade_in_Natural_Rattan_-_The_Rattan_Company2.png');
+        /*background-image: url('../images/_Bedside_Cabinets_and_Sarah_Lampshade_in_Natural_Rattan_-_The_Rattan_Company2.png');*/
+        background-image:url('../images/Group_Theme-ZioandSons_Havana_Mitzi.jpg')
 
     }
     100%{
-        background-image: url('../images/Natural-Rattan-Java-Bar-Stools-The-Rattan-Company.jpg');
+        /*background-image: url('../images/Natural-Rattan-Java-Bar-Stools-The-Rattan-Company.jpg');*/
+        background-image:url('../images/Group_Theme-OKL_LIFE_CV_HOLIDAY-HERO_HO23_V1_0961-1_lantern.jpg')
     }
 }
 /* End main section */
